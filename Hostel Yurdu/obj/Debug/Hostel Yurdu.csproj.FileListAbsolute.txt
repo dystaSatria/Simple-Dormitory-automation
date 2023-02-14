@@ -1,0 +1,18 @@
+C:\Users\Asus\source\repos\Hostel Yurdu\bin\Debug\Hostel Yurdu.exe.config
+C:\Users\Asus\source\repos\Hostel Yurdu\bin\Debug\Hostel Yurdu.exe
+C:\Users\Asus\source\repos\Hostel Yurdu\bin\Debug\Hostel Yurdu.pdb
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel Yurdu.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel_Yurdu.Properties.Resources.resources
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel Yurdu.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel Yurdu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel Yurdu.exe
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel Yurdu.pdb
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel_Yurdu.FrmYeniMusteri.resources
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel_Yurdu.FrmAnaForm.resources
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel_Yurdu.FrmAdminGiris.resources
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel_Yurdu.FrmOdalar.resources
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel_Yurdu.FrmMusteri.resources
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel_Yurdu.FrmGelirGider.resources
+C:\Users\Asus\source\repos\Hostel Yurdu\bin\Debug\Tao.OpenGl.xml
+C:\Users\Asus\source\repos\Hostel Yurdu\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Asus\source\repos\Hostel Yurdu\obj\Debug\Hostel Yurdu.csproj.CopyComplete
